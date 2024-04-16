@@ -41,7 +41,7 @@ By using the Directory Analysis script, you agree to the terms of this disclaime
 If you have any questions or concerns about this disclaimer notice, please rise an issue in github.
 
 Thank you for using the Directory Analysis script!
-
+-----------------
 If you'd like to contribute to this project, simply fork the repository and submit a pull request. Your code will be reviewed and merged as soon as possible.
 
 Thank you for your interest in contributing! I'd appreciate your help in making this project even better.

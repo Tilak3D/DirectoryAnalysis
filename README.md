@@ -1,6 +1,4 @@
 # DirectoryAnalysis
-
-![lol](https://github.com/Tilak3D/DirectoryAnalysis/assets/109524845/12dd6365-66bb-41df-beca-84895d8f641b)
 Functionalities and Benefits
 ----------------------------
 
@@ -30,7 +28,7 @@ python directory_analysis.py
 9. Resume a cancelled scan: To resume a cancelled scan, the user can run the script again and specify the same output directory as before. The script will detect the pending progress file and resume the scan from where it left off.
 
 I hope this quick-start guide is helpful! Let me know if you have any questions or issues.
-
+![lol](https://github.com/Tilak3D/DirectoryAnalysis/assets/109524845/12dd6365-66bb-41df-beca-84895d8f641b)
 Disclaimer Notice
 
 The Directory Analysis script is provided "as is" without warranty of any kind, either expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the script is with you. Should the script prove defective, you assume the cost of all necessary servicing, repair, or correction.

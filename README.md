@@ -1,4 +1,6 @@
 # DirectoryAnalysis
+
+![lol](https://github.com/Tilak3D/DirectoryAnalysis/assets/109524845/12dd6365-66bb-41df-beca-84895d8f641b)
 Functionalities and Benefits
 ----------------------------
 
